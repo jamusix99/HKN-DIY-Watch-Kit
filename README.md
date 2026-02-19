@@ -1,4 +1,4 @@
-# HKN DIY Watch Project
+# HKN Beta Psi DIY Watch Project
 By: John Mentgen \
 Init Date: 2026-02-16
 
@@ -7,4 +7,4 @@ Init Date: 2026-02-16
  - **SW**: Software Repo with details on how to compile
 
 ## Project Purpose
-This project is meant to provide new ECEN students with a fun soldering project that members of IEEE and HKN can help with and talk to students about possibilities in this field. The file holding the BOM details rough cost estimates for buying new parts from DigiKey and boards from JLCPCB.
+This project is meant to provide new ECEN students with a fun soldering project that members of IEEE and HKN Beta-Psi can help with and talk to students about possibilities in this field. The file holding the BOM details rough cost estimates for buying new parts from DigiKey and boards from JLCPCB.
